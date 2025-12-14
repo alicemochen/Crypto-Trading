@@ -8,15 +8,20 @@ Learning Plan:
   * Perps ≈ futures + funding
   * Funding ≈ price of leverage + imbalance
   * Liquidity ≠ volume
-  
+
+
+https://www.binance.com/en/academy/articles/what-is-basis-trading-and-how-does-it-work
+https://www.binance.com/en/academy/articles/what-are-funding-rates-in-crypto-markets
+https://www.binance.com/en/academy/articles/what-are-perpetual-futures-contracts
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301150
+
+
+
 ### Section1 : Basis Trade
 Basic Idea:
 1. Profit from the difference of spot price and future price
 2. Trade spot ETF vs CME BTC future to capture the basis
 3. Risk is the divergence of spot of future
-
-https://www.binance.com/en/academy/articles/what-is-basis-trading-and-how-does-it-work
-https://www.binance.com/en/academy/articles/what-are-funding-rates-in-crypto-markets
 
 
 ### Section 2: Perpetual Futures
