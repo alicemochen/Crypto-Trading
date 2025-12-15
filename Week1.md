@@ -360,6 +360,64 @@ Funding compensates the side absorbing the more dangerous risk.
 High funding caused by stress is a warning, not yield.
 
 ---
+## 9. Some thoughts
+### Key Alpha in Delta-Neutral Funding Capture
+
+- The alpha is **not** in earning funding.
+- The alpha is in **avoiding periods when funding becomes toxic**.
+
+---
+
+### Why Avoidance Matters More Than Entry
+
+- Funding is usually positive → entry timing matters less.
+- Returns accrue slowly → missing a few days is irrelevant.
+- Losses arrive suddenly via gaps, squeezes, or forced deleveraging.
+
+**Conclusion:**  
+Avoidance and early exit dominate entry optimization.
+
+---
+
+### When Funding Stops Being “Income”
+
+Funding becomes dangerous when it compensates **stress**, not imbalance:
+- Shorts are balance-sheet constrained
+- Leverage is crowded
+- Market becomes fragile
+
+High funding ≠ high expected return  
+High funding often = **high conditional risk**
+
+---
+
+### The Real Decision Points (Source of Alpha)
+
+#### When NOT to open
+- Funding rising rapidly
+- Open interest accelerating
+- Volatility compressing or starting to rise
+- Price momentum flattening
+
+#### When to stop adding
+- Regime deteriorating despite positive funding
+- Stress scenarios feel uncomfortable
+- Temptation to size up because the trade “feels safe”
+
+#### When to exit early
+- Before liquidation risk is obvious
+- Before funding spikes fully
+- Before consensus agrees the trade is dangerous
+
+Professionals exit **early and small**, not late and right.
+
+---
+
+### Mental Model to Keep
+
+> Delta-neutral funding capture is a regime trade.  
+> You make money by participating in calm imbalance and refusing to warehouse stress.
+
 
 ## One sentence to remember
 > Delta-neutral funding capture fails not because it’s wrong, but because small, slow carry is overwhelmed by leverage-induced path dependence and balance-sheet constraints.
