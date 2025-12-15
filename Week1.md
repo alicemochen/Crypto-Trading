@@ -3,9 +3,13 @@ Selected Readings:
 
 
 https://www.binance.com/en/academy/articles/what-is-basis-trading-and-how-does-it-work
+
 https://www.binance.com/en/academy/articles/what-are-funding-rates-in-crypto-markets
+
 https://www.binance.com/en/academy/articles/what-are-perpetual-futures-contracts
+
 https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301150
+
 https://insights.glassnode.com/leverage-position-openings-and-closures/
 
 
