@@ -298,7 +298,7 @@ Funding compensates the side absorbing the more dangerous risk.
 * Funding helps momentum traders when price trends strongly enough to dominate carry
 * Funding hurts momentum traders in sideways or slow-decline regimes
 * Funding creates opportunity for arbs when imbalance persists and risk is survivable
-
+* Funding spikes before crashes because shorts hit balance-sheet limits first, forcing funding to rise, which leaves the market one-sided and fragile. 
 ---
 
 ## One-Line Summary
