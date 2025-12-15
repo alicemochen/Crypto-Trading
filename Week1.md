@@ -285,3 +285,83 @@ Funding compensates the side absorbing the more dangerous risk.
 
 > Funding stays positive not because the market must go up, but because absorbing short exposure requires continuous compensation for unbounded tail risk.
 
+# Day 3 Summary — Delta-Neutral Funding Capture
+
+## 1. What the trade really is
+- **Position**: Long spot + short perpetual (delta ≈ 0)
+- **Economic role**: Selling leverage and renting out balance sheet
+- **Income source**: Funding paid by crowded leveraged longs
+- **Not** a directional bet or “free yield” strategy
+
+---
+
+## 2. Why the trade exists
+- Persistent demand for leveraged long exposure
+- Short capacity is scarce and balance-sheet constrained
+- Funding is the price paid to transfer tail risk and imbalance
+
+---
+
+## 3. Why returns are small
+- Funding yields are typically single-digit to low-teens annualized
+- After fees, margin buffers, and stress capital, ROE is modest
+- Edge comes from slow, persistent carry, not fast alpha
+
+---
+
+## 4. The core risk (most important)
+> The trade is positive EV but path-dependent.
+
+- Funding accrues slowly
+- Losses from gaps or dislocations are immediate
+- To amplify returns, traders lever up
+- Leverage introduces liquidation and forced deleveraging risk
+- Liquidation causes permanent capital loss
+
+---
+
+## 5. Why “delta-neutral” is misleading
+- Delta ≈ 0 does not mean risk ≈ 0
+- Exposures include:
+  - Gap risk
+  - Short squeeze tail risk (gap up)
+  - Basis and liquidity dislocations
+  - Exchange and operational risk
+
+---
+
+## 6. Gap risk asymmetry
+- **Gap up (most dangerous)**:
+  - Short losses are unbounded
+  - Margin pressure increases as price rises
+  - Forced exits can occur even if hedge is conceptually correct
+- **Gap down (more common, usually survivable)**:
+  - Short profits offset spot losses
+  - Liquidations often help the hedge
+
+---
+
+## 7. When the trade works
+- **Carry / calm imbalance regime**
+  - Funding positive but stable
+  - Price sideways or slow trend
+  - Volatility low
+  - Open interest not accelerating
+
+---
+
+## 8. When the trade fails
+- **Balance-sheet stress regime**
+  - Funding rising rapidly
+  - Leverage building
+  - Shorts constrained
+  - Market fragile
+
+High funding caused by stress is a warning, not yield.
+
+---
+
+## One sentence to remember
+> Delta-neutral funding capture fails not because it’s wrong, but because small, slow carry is overwhelmed by leverage-induced path dependence and balance-sheet constraints.
+
+
