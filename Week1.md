@@ -12,6 +12,12 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4301150
 
 https://insights.glassnode.com/leverage-position-openings-and-closures/
 
+https://www.paradigm.co/blog/back-to-the-basis-all-you-need-to-know-to-get-started-trading-basis-on-bybit
+
+https://www.paradigm.co/blog/basis-basics-pt-2
+
+https://www.paradigm.co/blog/defi-derivatives-yield-generation-strategies
+
 
 # Crypto Market Map — Day 1
 
