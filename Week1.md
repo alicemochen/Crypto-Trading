@@ -172,3 +172,46 @@ Funding prices who must absorb risk, not who is right about direction.
 ## 5. One-Sentence Insight
 
 > “The biggest misconception I had about crypto derivatives was that leverage makes trading cheaper, when in reality it converts price risk into continuous funding and liquidation risk.”
+
+# Crypto Market Map — Day 2
+
+## Goal
+
+Understand funding as a **risk-transfer and imbalance pricing mechanism**, not a directional signal.
+
+---
+
+## Core Principle
+
+> **Funding is a rental fee for imbalance, not a forecast of returns.**
+
+It reflects who must absorb risk and under what constraints, rather than who is "right" about price direction.
+
+---
+
+## Scenario Analysis
+
+### 1. Bull Trend + Positive Funding
+
+**Environment**
+
+* Price trending up
+* Funding persistently positive
+* Moderate volatility
+
+**Flows**
+
+* Perp longs (mostly retail / momentum):
+
+  * Pay funding
+  * Earn price PnL
+* Perp shorts (arbs / MMs):
+
+  * Receive funding
+  * Hedged or inventory-managed
+
+**Why funding persists**
+
+* Strong demand for leveraged long exposure
+* Shorts cannot aggressively cover without worsening pri
+
