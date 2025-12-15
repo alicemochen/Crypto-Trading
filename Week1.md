@@ -213,5 +213,95 @@ It reflects who must absorb risk and under what constraints, rather than who is 
 **Why funding persists**
 
 * Strong demand for leveraged long exposure
-* Shorts cannot aggressively cover without worsening pri
+* Shorts cannot aggressively cover without worsening price impact
+
+**Takeaway**
+Positive funding reflects willingness to pay for leverage and immediacy.
+
+---
+
+### 2. Sideways Market + Positive Funding
+
+**Environment**
+
+* Range-bound price
+* Low volatility
+* Funding still positive
+
+**Flows**
+
+* Perp longs:
+
+  * No price PnL
+  * Continuous funding bleed
+* Perp shorts (funding arbs):
+
+  * Accumulate carry slowly
+  * Capital tied up
+
+**Why arbitrage doesn’t eliminate funding**
+
+* Balance-sheet constraints
+* Custody and borrow friction
+* Exchange and operational risk
+
+**Takeaway**
+Funding can stay positive even without bullish price action due to limited arbitrage capacity.
+
+---
+
+### 3. Slow Grind-Down + Positive Funding
+
+**Environment**
+
+* Gradual price decline
+* Funding remains positive
+* Sharp downside spikes, weak bounces
+
+**Flows**
+
+* Perp longs:
+
+  * Lose on price
+  * Still pay funding
+  * Liquidated mechanically on downside spikes
+* Perp shorts:
+
+  * Earn price PnL and funding
+  * Remain exposed to squeeze tail risk
+
+**Key asymmetry**
+
+* Long liquidations: fast, mechanical, frequent, bounded loss
+* Short squeezes: rare, slower, discretionary exits, unbounded loss
+
+**Why funding stays positive**
+
+* Shorts demand compensation for catastrophic tail risk, not frequency or speed
+
+**Takeaway**
+Funding prices tail risk and balance-sheet stress, not short-term trend.
+
+---
+
+## Structural Asymmetry (Lock This In)
+
+* **Longs are killed by speed** (liquidations)
+* **Shorts are killed by tails** (squeezes)
+
+Funding compensates the side absorbing the more dangerous risk.
+
+---
+
+## Funding ≠ Direction
+
+* Funding helps momentum traders when price trends strongly enough to dominate carry
+* Funding hurts momentum traders in sideways or slow-decline regimes
+* Funding creates opportunity for arbs when imbalance persists and risk is survivable
+
+---
+
+## One-Line Summary
+
+> Funding stays positive not because the market must go up, but because absorbing short exposure requires continuous compensation for unbounded tail risk.
 
