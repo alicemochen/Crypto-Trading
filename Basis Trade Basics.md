@@ -1,4 +1,4 @@
-## Week 1: Crypto market structure
+# Basis Trade: Perps/Futures/Spot
 Selected Readings:
 
 
